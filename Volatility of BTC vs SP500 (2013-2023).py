@@ -1,5 +1,5 @@
-import pandas as pd
-import matplotlib.pyplot as plt
+import pandas as pd 
+import matplotlib.pyplot as plt 
 import yfinance as yf 
 
 # Fetch BTC and SP500 data from Yahoo Finance

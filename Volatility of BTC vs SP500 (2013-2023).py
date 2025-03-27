@@ -1,6 +1,6 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import yfinance as yf
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import yfinance as yf 
 
 # Fetch BTC and SP500 data from Yahoo Finance
 btc = yf.download("BTC-USD", start="2013-01-01", end="2023-01-01")
